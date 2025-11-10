@@ -1,0 +1,2 @@
+$$ CollegeCycle Projecttidea to reuse ,sell, share essentials
+Every year, college students who pass-out leave behind or struggle to sell reusable items such as books, mattresses, bicycles, and many study accessories. These often end up discarded or wasted, while fresher students spend additional money purchasing the same essentials. There is a need for platform that allows students to donate or sell items easily while helping freshers access affordable, second-hand essentials
