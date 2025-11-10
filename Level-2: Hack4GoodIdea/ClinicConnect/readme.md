@@ -1,1 +1,3 @@
+## ClinicConnect: Digitizing Local Healthcare Access
 
+Many small local clinics across India still operate completely offline, relying solely on walk-in patients or word-of-mouth referrals. Patients struggle to locate nearby clinics, check doctor availability, or unaware of appointments timings. This often forces them to depend on costly hospital visits. Importantly, many of these local clinics are run by experienced and highly skilled doctors who provide quality treatment at much more affordable yet they remain unnoticed and underutilized due to lack of digital presence.There is a need for a simple platform that connects nearby clinics and healthcare practitioners with patients, enabling better visibility and easy appointment booking
