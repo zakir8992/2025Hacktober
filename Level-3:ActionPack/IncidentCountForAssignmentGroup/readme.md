@@ -1,0 +1,4 @@
+## Get Incident count and fetch associated Incidents for Assignment Groups
+- This action finds all active incidents assigned to a selected Assignment Group.
+- The group field is mandatory, so the action only runs when a valid group is provided.
+- It returns the total count of active incidents and a list of incident as Output
